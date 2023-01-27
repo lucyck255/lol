@@ -1,0 +1,58 @@
+h1 {
+    color: DarkSeaGreen;
+    font-size: 60px;
+    margin: 0;
+    text-shadow: 3px 3px 1px rgb(172, 244, 91);
+    text-align: center;
+}
+
+p1 {
+    color: Olive; 
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    width: 500px;
+  }
+
+  img { 
+    width: 400px;
+    display: block;
+    margin: 0 auto
+  }
+
+  h2 { color:olivedrab;
+    font-size: 20px;
+    text-shadow: 3px 3px 1px rgb(172, 244, 91);
+  }
+
+  p2 {
+    color: Olive; 
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    width: 500px;
+ }
+
+ p3 { 
+    color: Olive; 
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    width: 500px;
+}
+
+p3 { 
+  color: Olive; 
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  width: 500px;
+}
+
+ul {
+  color: Olive; 
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  width: 500px;
+}
