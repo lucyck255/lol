@@ -1,3 +1,4 @@
+
 h1 {
     color: DarkSeaGreen;
     font-size: 60px;
@@ -30,7 +31,8 @@ p1 {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
-    width: 500px;
+    width: 200px;
+  
  }
 
  p3 { 
@@ -70,4 +72,8 @@ h3{
   font-size: 20px;
   text-shadow: 3px 3px 1px 
   color:rgb(172, 244, 91);
+}
+
+html {
+  background-color: #F4FCEA
 }
