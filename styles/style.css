@@ -75,5 +75,13 @@ h3{
 }
 
 html {
-  background-color: #F4FCEA
+  background-color: #FCF5FF
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #F5FFE8;
+  padding: 0 20px 20px 20px;
+  border: 20px solid #799B50;
 }
