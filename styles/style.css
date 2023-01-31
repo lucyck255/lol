@@ -1,15 +1,26 @@
 
+html {
+  background-color: #27333f 
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #5d8397;
+  padding: 0 20px 20px 20px;
+  border: 5px solid #8ba26e;
+}
 h1 {
-    color: DarkSeaGreen;
+    color: #5f2225;
     font-size: 60px;
     margin: 0;
     padding: 20px 0;
-    text-shadow: 3px 3px 1px rgb(172, 244, 91);
+    text-shadow: 3px 3px 1px #a5757d;
     text-align: center;
 }
 
 p1 {
-    color: Olive; 
+    color: #5f2225; 
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
@@ -22,13 +33,13 @@ p1 {
     margin: 0 auto
   }
 
-  h2 { color:olivedrab;
+  h2 { color: #5f2225;
     font-size: 20px;
-    text-shadow: 3px 3px 1px rgb(172, 244, 91);
+    text-shadow: 3px 3px 1px #a5757d;
   }
 
   p2 {
-    color: Olive; 
+    color: #5f2225; 
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
@@ -37,7 +48,7 @@ p1 {
  }
 
  p3 { 
-    color: Olive; 
+    color: #5f2225; 
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
@@ -45,7 +56,7 @@ p1 {
 }
 
 p3 { 
-  color: Olive; 
+  color: #5f2225; 
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
@@ -53,7 +64,7 @@ p3 {
 }
 
 ul {
-  color: Olive; 
+  color: #5f2225; 
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
@@ -61,7 +72,7 @@ ul {
 }
 
 p4 {
-  color: Olive; 
+  color: #5f2225; 
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
@@ -69,20 +80,9 @@ p4 {
 }
 
 h3{
-  color:olivedrab;
+  color:8ba26e;
   font-size: 20px;
   text-shadow: 3px 3px 1px 
   color:rgb(172, 244, 91);
 }
 
-html {
-  background-color: #F9FFF0
-}
-
-body {
-  width: 600px;
-  margin: 0 auto;
-  background-color: #F5FFE8;
-  padding: 0 20px 20px 20px;
-  border: 5px solid #799B50;
-}
