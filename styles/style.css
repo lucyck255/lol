@@ -3,6 +3,7 @@ h1 {
     color: DarkSeaGreen;
     font-size: 60px;
     margin: 0;
+    padding: 20px 0;
     text-shadow: 3px 3px 1px rgb(172, 244, 91);
     text-align: center;
 }
@@ -75,7 +76,7 @@ h3{
 }
 
 html {
-  background-color: #FCF5FF
+  background-color: #F9FFF0
 }
 
 body {
@@ -83,5 +84,31 @@ body {
   margin: 0 auto;
   background-color: #F5FFE8;
   padding: 0 20px 20px 20px;
-  border: 20px solid #799B50;
+  border: 5px solid #799B50;
+}
+
+.container {
+  display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+}
+
+button {
+  width: 100px;
+}
+
+div.parent {
+  border: 1px solid black;
+  padding: 5px;
+  width: 100px;
+  height: 100px;
+}
+
+div.child {
+  border: 1px solid red;
+  margin: 10px;
+  padding: 5px;
+  width: 80px;
+  height: 60px;
+  box-sizing: border-box;
 }
