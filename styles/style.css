@@ -41,6 +41,7 @@ p1 {
   p2 {
     color: #5f2225; 
     font-size: 16px;
+    font-style: italic;
     line-height: 2;
     letter-spacing: 1px;
     width: 200px;
