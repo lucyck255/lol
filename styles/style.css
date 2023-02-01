@@ -64,6 +64,13 @@ h3{
   text-align: center;
  }
 
+ #TestId {
+  color:beige;
+  font-size: 20px;
+  letter-spacing: 10px;
+  text-align: center;
+ }
+
  .footer {
   color: grey;
   text-align: right;
